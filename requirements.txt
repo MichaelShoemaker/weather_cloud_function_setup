@@ -1,0 +1,7 @@
+requirements.txt
+functions-framework
+requests
+pandas
+dlt
+google-cloud-secret-manager
+google-cloud-bigquery
